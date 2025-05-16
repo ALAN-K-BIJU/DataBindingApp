@@ -16,8 +16,8 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/ALAN-K-BIJU/DataBindingApp/blob/main/screenshots/home.png" alt="Home Screen" width="260"/>
-  <img src="https://github.com/ALAN-K-BIJU/DataBindingApp/blob/main/screenshots/toast.png" alt="Toast Triggered" width="260"/>
+  <img src="https://github.com/ALAN-K-BIJU/DataBindingApp/blob/main/Screenshots/home.png" alt="Home Screen" width="260"/>
+  <img src="https://github.com/ALAN-K-BIJU/DataBindingApp/blob/main/Screenshots/toast.png" alt="Toast Triggered" width="260"/>
 </div>
 
 ---
